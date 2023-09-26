@@ -5,6 +5,7 @@
 You can install these with `pip`, or clone the repo:
 
 - [`redflag`](https://github.com/scienxlab/redflag) &mdash; automatic safety net for machine learning datasets.
+- [`checklists`](https://github.com/scienxlab/checklists) &mdash; simple checklists for high quality data science.
 - [`unmap`](https://github.com/scienxlab/unmap) &mdash; a small utility for ripping data from pseudocolour images.
 
 We also maintain a set of programming challenges called 'kata', aimed at geoscientists:

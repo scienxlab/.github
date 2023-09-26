@@ -1,4 +1,4 @@
-**scien✖️lab** is a microscopic scientific laboratory producing open scientific software. It includes some projects migrated out of [Agile Scientific](https://code.agilescientific.com) when it closed in 2022.
+**scien✖️lab** is a microscopic scientific laboratory producing open scientific software.<br />It includes some projects migrated out of [Agile Scientific](https://code.agilescientific.com) when it closed in 2022.
 
 ## ⚒️ &nbsp; Open tools for scientists & data scientists
 

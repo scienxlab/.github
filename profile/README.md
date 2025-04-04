@@ -10,6 +10,6 @@ You can install these with `pip`, or clone the repo:
 
 We also maintain a set of programming challenges called 'kata', aimed at geoscientists:
 
-- [`kata`](https://kata.geosci.ai) &mdash; programming challenges for earth scientists learning to program.
+- [`kata`](https://kata.scienxlab.org/) &mdash; programming challenges for earth scientists learning to program.
 
 If you'd like to get involved in any of these projects, or collaborate on new ones, dive into the repos or [get in touch](mailto:hello@scienxlab.org).
